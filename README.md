@@ -3,7 +3,7 @@
 
 <div align="center">
 
-🦠 ᴜɪ ᴀᴜᴛʜᴏʀ | 🦾 ᴀᴜᴅɪᴏ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ☕️ ᴀᴜᴛᴏᴅɪᴅᴀᴄᴛ | 🥁 ᴊᴀᴢᴢ ᴇɴᴊᴏʏᴇʀ
+🦠 ᴜɪ ᴀᴜᴛʜᴏʀ | 💽 ᴀᴜᴅɪᴏ ᴅᴇᴠᴇʟᴏᴘᴇʀ | 🗿 ᴀᴜᴛᴏᴅɪᴅᴀᴄᴛ | 🥁 ᴊᴀᴢᴢ ᴇɴᴊᴏʏᴇʀ
 
 [![Linkedin](https://img.shields.io/badge/-@nicholasleao-%231DA1F2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nicholas-leao/)
 [![Github](https://img.shields.io/badge/-@nicholasleao-%23181717?style=flat-square&logo=github)](https://github.com/NicholasLeao)
