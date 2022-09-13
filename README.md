@@ -5,7 +5,6 @@
 
 🦠 ᴜɪ ᴀᴜᴛʜᴏʀ | 💽 ᴀᴜᴅɪᴏ ᴅᴇᴠᴇʟᴏᴘᴇʀ | 🗿 ᴀᴜᴛᴏᴅɪᴅᴀᴄᴛ | 🥁 ᴊᴀᴢᴢ ᴇɴᴊᴏʏᴇʀ
 
-In 2022, I leaped. I left my old career to join the web developer ecosystem. In this new environment, I've found a group of exceedingly driven people, who enthusiastically push a community forward with knowledge and experimentation. This is still a source of inspiration for me every day as I wake up to learn something new.
 
 [![Linkedin](https://img.shields.io/badge/-@nicholasleao-%231DA1F2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nicholas-leao/)
 [![Github](https://img.shields.io/badge/-@nicholasleao-%23181717?style=flat-square&logo=github)](https://github.com/NicholasLeao)
